@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://automatic-telegram-r76x5797r7gf5qxp-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://automatic-telegram-r76x5797r7gf5qxp-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=860aa42a-c211-46b4-9e51-0c8b4b6b51c0
+ceTaskUrl=https://automatic-telegram-r76x5797r7gf5qxp-9000.app.github.dev/api/ce/task?id=860aa42a-c211-46b4-9e51-0c8b4b6b51c0
